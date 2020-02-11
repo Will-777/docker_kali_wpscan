@@ -11,17 +11,17 @@ docker run -it --rm wpscanteam/wpscan --url https://target.tld/ --enumerate u
 # how to run
 Build the image
 ```
-$ docker build .
+$ docker build Dockerfile -t kalilinux/your_tag
 ```
 
 Run it
 ```
-$ docker run kalielinux/your_tag -it /bin/bash
+$ docker run kalilinux/your_tag -it /bin/bash
 ```
 
 Save it
 ```
-$ docker commit 4t4dcettds23 kalielinux/your_tag
+$ docker commit 4t4dcettds23 kalilinux/your_tag
 ```
 
 Some interesting info here as well
