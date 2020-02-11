@@ -23,3 +23,6 @@ Save it
 ```
 $ docker commit 4t4dcettds23 kalielinux/your_tag
 ```
+
+Some interesting info here as well
+https://medium.com/@airman604/kali-linux-in-a-docker-container-5a06311624eb
