@@ -1,6 +1,6 @@
 
 # Download Kali
-FROM kalilinux/kali
+FROM kalilinux/kali-linux-docker
 
 # Run update
 RUN apt-get install && apt-get upgrade -y
