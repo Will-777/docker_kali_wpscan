@@ -1,7 +1,3 @@
-# Before you start, please consider to use : 
-# docker pull wpscanteam/wpscan
-# docker run -it --rm wpscanteam/wpscan --url https://target.tld/ --enumerate u
-# (just saying...)
 
 # Download Kali
 FROM kalilinux/kali
